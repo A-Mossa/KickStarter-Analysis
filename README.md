@@ -14,9 +14,9 @@ some challenges that I anticipated was encountering incomplete or unclean data, 
 ### Analysis of Outcomes Based on Launch Date
 Based on month analysis launch date of kickstarter theater campaigns, some interesting findings appeared.
 from thourough analysis of data provided we concluded:
-*The months with the most launched campaigns are May, June, and July. 
-*The highest number of successful campaigns were launched in Q2, and the months are May, June, and July respecectively.
-*The months with highest failed campaigns are May, October, and August.
+- The months with the most launched campaigns are May, June, and July. 
+- The highest number of successful campaigns were launched in Q2, and the months are May, June, and July respecectively.
+- The months with highest failed campaigns are May, October, and August.
 
 From the above findings we discovered that around mid year, is when most of the campaigns launch. May especially was the month that saw the most campaigns launched with a success rate of 66% followed by June then July.
 May, June and July were recommended to the client to launch their campaign as it historically it shows the most success rate. August, October, and December are found to be the months with the hughest failure rate.
