@@ -24,6 +24,6 @@ May, June and July were recommended to the client to launch their campaign as it
 
 ### Analysis of Outcomes Based on Goals
 The campaign goal appeared to be a major factor in the success of a project. it had the following effect:
--Campaigns that saw the most success were the ones that had a goal of less than a 1000$, from 1000$ to 4999$, and from 35000$ to 49000$.
+-Campaigns that saw the most success were the ones that had a goal of less than a 1000$ , 1000$ to 4999$ , and 35000$ to 49000$.
 -Campaigns with the least success were those with a goal of 45000 to 49999$, 50000$ or more, and 30000$ to 34999$.
 ![Outcomes vs Goals chart](https://github.com/A-Mossa/KickStarter-Analysis/blob/main/Outcomes_vs_Goals.png)
