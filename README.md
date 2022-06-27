@@ -26,7 +26,7 @@ The campaign goal appeared to be a major factor in the success of a project. it 
 - Campaigns with the least success were those with a goal of 45000 to 49999$, 50000$ or more, and 30000$ to 34999$.
 ![Outcomes vs Goals chart](https://github.com/A-Mossa/KickStarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
-The dataset itself was relevantly small, easy to manipulate, clean and mostly complete. one challenge that was encountered was the converion of date from timestamps to DD/MM/YYYY format. Although it was comfortably overcome, it was an opportunity to learn about a new concept of timre registration and formula.
+The dataset itself was relevantly small, easy to manipulate, clean and mostly complete. one challenge that was encountered was the converion of date from timestamps to DD/MM/YYYY format. Although it was comfortably overcame, it was an opportunity to learn about a new concept of timre registration and formula.
 
 ## Results
 
