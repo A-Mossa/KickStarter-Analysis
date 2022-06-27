@@ -40,7 +40,7 @@ campaigns that launched with goals of 45000 or more tend to have significantly h
 Therefore, my recommendation for the client would be to set their asking goals to be lower than 5000 to expect the best outcome
 
 - What are some limitations of this dataset?
-some limitations of this data set is that it does'nt specify the demographics of the backers, Their age group and gender could give hints on who the client's target audience would be.
+  *some limitations of this data set is that it does'nt specify the demographics of the backers, Their age group and gender could give hints on who the client's target audience would be.
 Other than that the data seemed clean, consice, and gathered in a single format.
 - What are some other possible tables and/or graphs that we could create?
-If I had the opportunity I would have created a separate analysis on the relation between average donation and outcome. it would explain the relatioship between the contribution ammount and the end goal
+  * If I had the opportunity I would have created a separate analysis on the relation between average donation and outcome. it would explain the relatioship between the contribution ammount and the end goal
