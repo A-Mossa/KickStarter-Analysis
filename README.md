@@ -32,7 +32,7 @@ The dataset itself was relevantly small, easy to manipulate, clean and mostly co
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
   1. Regarding Launch date, from the above findings we discovered that around mid year, is when most of the campaigns launch. May especially was the month that saw the most campaigns launched with a success rate of 66% followed by June then July.
-  2. May, June and July were recommended to the client to launch their campaign as it historically it shows the most success rate. August, October, and December are found to be the months with the highest failure rate.
+  2. August, October, and December are found to be the months with the highest failure rate. May, June and July were recommended to the client to launch their campaign as it historically it shows the most success rate. 
 
 - What can you conclude about the Outcomes based on Goals?
 Looking at the successful rate of kickstarter projects that launched with a goal of less than 1000 to 5000 (72.5%) I can conclude that the optimal plan for the campaign goal would be somewhere in that range.
